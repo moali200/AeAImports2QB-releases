@@ -6,7 +6,7 @@ PayPal, Suran and paper checks into QuickBooks Online deposits for review and po
 This repository contains only the released app. The source code is private.
 
 ## Install
-1. Open the latest release (under **Releases** on the right) and download `AeAImports2QB-win-Setup.exe`.
+1. Open the latest release (under **Releases** on the right) and download `AeAImports2QB-App-win-Setup.exe`.
 2. Run it. It installs for your Windows user only and doesn't need administrator rights.
    If Windows shows "Windows protected your PC", click **More info**, then **Run anyway**.
 3. Start **AeAImports2QB** from the Start menu. The first time, it offers to open **Settings** so you
